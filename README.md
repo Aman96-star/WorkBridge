@@ -2,6 +2,7 @@
 Employee Management System is a web-based application developed using Java and Spring Boot It improves data management, reduces manual work, and ensures organized employee record handling.
 
 FLOW DIAGRAM & FILE STRUCTURE
+```bash
 WorkBridge/
 │
 ├── backend/
@@ -65,3 +66,4 @@ WorkBridge/
 ├── .gitignore
 ├── README.md
 └── LICENSE
+```
